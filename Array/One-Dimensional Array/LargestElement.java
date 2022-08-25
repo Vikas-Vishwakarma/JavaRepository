@@ -13,8 +13,7 @@ public class LargestElement {
 //		System.out.println(temp);
 //		}
 //		
-		
-		
+
 		for(int element : arr) {
 			if(temp < element) {
 				temp = element;
