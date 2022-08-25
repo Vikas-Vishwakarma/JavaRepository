@@ -1,5 +1,3 @@
-package com.java.patterns;
-
 public class PalindromicPyramid {
 	public static void main(String[] args) {
 		int n =4;

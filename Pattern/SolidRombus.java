@@ -1,5 +1,3 @@
-package com.java.patterns;
-
 public class SolidRombus {
 
 	public static void main(String[] args) {

@@ -1,5 +1,3 @@
-package com.java.patterns;
-
 import java.util.Scanner;
 
 public class ReverseHalfPyramid {

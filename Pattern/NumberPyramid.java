@@ -1,5 +1,3 @@
-package com.java.patterns;
-
 public class NumberPyramid {
 	public static void main(String[] args) {
 		
