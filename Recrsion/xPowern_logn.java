@@ -1,4 +1,3 @@
-package com.java.recursion;
 // Write a java program to find x raise to th power n(stack height = logn)
 import java.util.Scanner;
 
@@ -33,6 +32,3 @@ public class xPowern_logn {
 		}
 	}
 }
-
-Explanation: 
-x^n  
