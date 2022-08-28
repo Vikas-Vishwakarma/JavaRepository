@@ -8,7 +8,6 @@ public class ReverseString{
             System.out.println(str.charAt(index));
             return;
         }
-        
         //Logic
         System.out.print(str.charAt(index));
         printRev(str, index - 1);
