@@ -1,3 +1,6 @@
+// Java Examples on finding largest and smallest Numbers in Array
+// Write a java Program to find the smallest and second largest Number in Array
+
 package Arrays;
 
 import java.util.Arrays;
@@ -17,7 +20,7 @@ public class SecondLargestandSmallestElement {
 		
 		Arrays.sort(arr);
 		System.out.println("Smallest Element: "+arr[0]);
-		System.out.println("Largest Element: "+arr[n-1]);
+		System.out.println("Largest Element: "+arr[n-2]);
 	}
 
 }
