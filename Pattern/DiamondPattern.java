@@ -1,3 +1,5 @@
+//Diamond Pattern
+
 import java.util.Scanner;
 
 public class DiamondPattern {
