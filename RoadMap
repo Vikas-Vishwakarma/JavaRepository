@@ -1,0 +1,164 @@
+Roadmap to Learn Java
+Start with the Overview of Java. Read some Java-related blogs and also research some Java-related things. For example read blogs on Introduction to Java, History of Java, Different Versions of Java, and also topics like Why Java is still so popular in 2022, etc., etc., and make a complete mind makeup to start your journey on Java. Make yourself self-motivated to learn Java and build some awesome projects using Java. Do it regularly and also start learning one by one new concept on Java. It will be very better to join some workshops or conferences on Java before you start your journey. 
+
+1) Data Types and Variables
+If Java is your 1st programming language then you should start learning the following concepts. 
+
+Data Types in Java
+Variables in Java
+Rules for Naming a Variable in Java
+What are Literals in Java
+2) Features and Architecture
+You need to learn some of the important features of Java programming language such as why java is secure, portable, object-oriented, robust, multithreaded, etc. along with the architecture like, how a Java program executes, what makes Java as a Platform independent language, etc. You need to cover the following concepts in this section. 
+
+Compiler vs Interpreter
+How Java is Platform Independent?
+JVM Architecture
+Features of Java
+3) Operator and Expressions
+Operators are used for performing operations on variables and values and they can be classified based on the functionality they provide. Some of the types are Arithmetic Operators, Unary Operators, Assignment Operators, Relational Operators, Logical Operators, etc. You need to cover the following concepts in this section. 
+
+Arithmetic Operators and Expressions
+Bitwise Operator – AND, OR & XOR
+Bitwise Operator – Left Shift, Right Shift & NOT
+Increment and Decrement Operators
+Bit Masking and Merging
+4) String Class
+Strings in Java are Objects that are supported internally by a char array. Since arrays are immutable(cannot grow), Strings are immutable as well. Whenever a modification to a String is made, a completely new String is constructed. You need to cover the following concepts: 
+
+Creating String Object
+String Methods
+String Matching with Regular Expression
+5) Conditional Statements
+In Java the following conditional statements are present and you need to cover all these concepts in detail. 
+
+if statement
+nested if statement
+if-else statement
+if-else-if statement
+Switch Case Statement
+6) Loops
+Looping in programming languages is a feature that enables the implementation of a set of instructions repeatedly while some condition evaluates to true. Java provides 3 ways for executing the loops. While all the ways provide equivalent functionality, they vary in their syntax and condition checking time. In Java the following loops are present and you need to cover all these concepts in detail.
+
+while loop
+do-while loop
+for loop
+enhanced for loop
+7) Arrays
+The array is the collection of items stored at contiguous memory locations. The concept is to store multiple items of the same type together. This makes Array more straightforward to calculate the position of each element by just adding an offset to a base value, i.e., the memory location of the first element of the array. In Array, you need to learn the following concepts in detail. 
+
+
+Arrays class in Java
+1D Array
+2D Array
+8) Methods
+The method is a collection of statements that accomplish some specific task and return the result to the caller. In Java, every method must be part of some class that is different from languages like C, C++, and Python. In Methods, you need to get in-depth knowledge of the following concepts. 
+
+Writing Methods in Java
+Passing Object as Parameters
+Parameter Passing in Java
+Variable Arguments
+Command Line Arguments
+Recursion
+Method Overloading
+9) Object-Oriented Programming (Most Important Concept in Java to Learn)
+As the name suggests, Object-Oriented Programming or OOPs refers to languages that use objects in programming. Object-oriented programming aspires to execute real-world entities like abstraction, inheritance, data hiding, polymorphism, etc. in programming. The primary goal of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function. In Object-Oriented Programming, you need to learn the following concepts in detail. 
+
+Principles of Object-Oriented Programming
+Class vs Object
+How to Write a Class
+Constructor
+Inheritance
+Generalization vs Specialization
+What’s inheritance?
+Constructors in Inheritance
+this is super
+Types of Inheritance
+Method Overriding
+Dynamic Method Dispatch
+Polymorphism using Overloading and Overriding
+Abstract Class
+What’s Abstract Class
+Rules of Abstract Class
+Interfaces
+What are Interfaces
+Example of Interface
+Interface vs Multiple Inheritance
+Inner Classes
+Static Members and Blocks
+Final Keyword
+Exception Handling
+What are Exceptions
+How to Handle Exception
+Try and Catch Block
+Multiple & Nested Try Catch
+Checked and Unchecked Exception
+Throw vs Throws
+Finally Block
+To get more in-depth information about the OOPs concept click here.
+
+10) Multithreading
+Multithreading is a Java functionality that permits concurrent execution of two or more parts of a program for maximum utilization of CPU and every part of such a program is called a thread. In Multithreading, you need to learn the following concepts in detail. 
+
+What are Multiprogramming
+Multithreading using Thread Class
+Multithreading using Runnable Interface
+States of a Thread
+Thread Priorities, Thread Class
+Thread Methods: Constructors, sleep & Interrupt
+Thread: Daemon, join and yield
+What is Synchronization
+What is a Monitor
+Multithreading using Monitor
+Inter-Thread Communication
+To get more information about Multithreading click here.
+
+11) JAVA IO Streams
+Java provides different Streams with its I/O package that helps the user to accomplish all the input-output operations. These streams support all the types of objects, data types, characters, files, etc. to fully execute the I/O operations. In JAVA IO Streams, you need to learn the following concepts in detail. 
+
+What are Streams
+InputStream and OutputStream
+FileOutputStream
+FileInputStream & FileReader
+Buffered Streams and Buffered Reader
+Piped Streams
+Random Access File
+Data Streams
+Serialization
+12) Java Generics
+Generics means parameterized types. The concept is to permit type (Integer, String, … etc., and user-defined types) to be a parameter to methods, classes, and interfaces. By using Generics, it is possible to create classes that operate with different data types. An entity such as class, interface, or method that operates on a parameterized type is a generic entity. In Generics, you need to learn the following concepts in detail. 
+
+Introduction to Generics
+Generic Methods
+13) Collection Framework
+Java Collection Framework is unlikely any group of individual objects that are described as a single unit is known as the collection of objects. Before in Java, there was no such thing defined that carries true for it so there arises a need in the next versions of any such concept. So in JDK 1.2, a different framework was defined known as “Collection Framework” that holds all the collection classes and interfaces in it. In Collection Framework, you need to learn the following concepts in detail. 
+
+What are Collections?
+Why Collections are Required?
+Collection Classes in Java
+HashMap and its Internal Working
+HashSet, Treeset
+Compare Interface
+LinkedHashSet
+BitSet
+Arrays and Comparator
+14) JDBC (Java Database Connectivity)
+JDBC or Java Database Connectivity is a Java API to connect and execute the query with the database. It is a specification from Sun microsystems that provides a standard abstraction(API or Protocol) for java applications to communicate with various databases. In JDBC, you need to learn the following concepts in detail. 
+
+JDBC Drivers
+Writing JDBC Programming
+DML (Data Manipulation Language) using JDBC
+DDL (Data Definition Language) using JDBC
+15) Java 8
+Java 8 is one of the most awaited versions in the Java programming language because of its important feature release. So one must know about those Java 8 features and is very very important to learn and practice. In Java 8, you need to learn the following concepts in detail. 
+
+Lambda Expressions
+Syntax
+Rules for writing lambda expressions
+Introduction to Lambda Expression
+Parameters in Lambda Expression
+Method Reference
+Functional Interfaces
+Default Methods
+Java 8 Streams
+Java 8 Date/Time API Changes
